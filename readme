@@ -1,0 +1,17 @@
+ALTERAÇÕES DO CODIGO FORNECIDO PELO CHATGPT:
+
+No codigo o chat tinha me dado um quadrado para jugar e eu mudei para uma bola para ficar o maximo paracido ao jogo real.
+
+Coloquei uma imagem desfocada de fundo com o nome do jogo, usei-a para demonstrar o nome do jogo que aparece na imagem.
+
+Mudei a cor dos butoes tanto de jogar, como da scoreboard como o de voltar, dentro da scoreboard o top 3 tem uma cor para cada.
+
+Adicionei power-ups, os verdes são para aumentar o meu bloco, já os azuis dropam 3 novas bolas, tendo mais probabilidade de dropar azuis que verdes, mas eles podes estar num certo boloco nesta partida e na proxima podesm ja estar noutro.
+
+Adicionei mais linhas e colunas com cores.
+
+Coloquei uma aviso para o utilizador saber as teclas que poderá usar no jogo, para ficar mais acessível.
+
+Também acrescentei uma pontuação, que é tratada da seguinte maneira: A cada bloco destruido ganha 5 pontos.
+
+Tem um sistema de vidas em que o jogador tem 3 vidas ao fim das mesmas acabarem o jogo acaba.
